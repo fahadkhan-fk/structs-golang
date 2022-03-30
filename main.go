@@ -21,7 +21,7 @@ func main() {
 
 	// declaring a variable `boy` of type Person struct and assigning value according to it's fields type
 	var boy = Person{
-		firstName: "Jim",
+		firstName: "Jimy",
 		lastName:  "bucky",
 		ContactInfo: ContactInfo{
 			email:   "jim@gmail.com",
